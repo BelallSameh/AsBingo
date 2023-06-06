@@ -1,0 +1,28 @@
+.gb {
+    background-color: #000000;
+    border: none;
+    padding: 15px 15px;
+    border-radius: 10px;
+}
+
+.setters {
+    background-color: rgb(113, 48, 48);
+    width: 100px;
+    border: 6px solid rgb(121, 27, 27);
+    padding: 5px 5px;
+    color: bisque
+}
+
+.container {
+    padding: 16px 16px;
+    background-color: bisque;
+}
+
+body {
+    background-image: url("back.webp");
+    background-size: cover;
+}
+
+#Mess{
+    color: rgb(113, 48, 48);
+}
