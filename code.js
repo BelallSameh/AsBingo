@@ -2,7 +2,7 @@ var nums = [5, 13, 16, 25, 9,
     1, 18, 22, 4, 19,
     24, 10, 15, 12, 2,
     3, 21, 11, 17, 6,
-    8, 23, 20, 7, 14]
+    8, 23, 20, 7, 14] // could be generated randomly every time the game is launched but it is constant for now
 function appendnum() {
     var itag = document.getElementById("num");
     var mynum = parseInt(itag.value);
