@@ -18,7 +18,7 @@
     ```
 
 2. **Open the Game**:
-    - Open `index.html` in your web browser to start playing.
+    - Open `game.html` in your web browser to start playing.
 
 ## Gameplay Features
 
